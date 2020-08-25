@@ -2,7 +2,7 @@
 This program is created by:-
     Divy Koushik Mishra
     on:- 4/8/2020
-    Version:- 1.0.2
+    Version:- 1.0.3
 */
 #include <stdio.h>
 
@@ -13,6 +13,7 @@ int main(){
     scanf("%d", &reqNo);
 
     // Multiplication table start from here
+    printf("######################### Multiplication Table Generator(V- 1.0.3)- By Divy Koushik Mishra #########################" );
     printf("%d X 1 = %d \n", reqNo, reqNo );
     printf("%d X 2 = %d \n", reqNo, reqNo*2 );
     printf("%d X 3 = %d \n", reqNo, reqNo*3 );
